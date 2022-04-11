@@ -1,4 +1,4 @@
-![Logo](repo/main.png)
+![Logo](repo-images/main.png)
 
 # Instacart Data Analysis
 
@@ -18,6 +18,6 @@ Notebook: [Click here to access Python Notebook](https://github.com/jason-beh/in
 
 ## Screenshots
 
-![Visualisation Example 1](repo/image-1.png)
+![Visualisation Example 1](repo-images/image-1.png)
 
-![Visualisation Example 1](repo/image-2.png)
+![Visualisation Example 2](repo-images/image-2.png)
